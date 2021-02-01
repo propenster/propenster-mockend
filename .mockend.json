@@ -10,7 +10,7 @@
     "body": "string",
     "post": "Post"
   },
-  "Burgers":{
+  "Burger":{
   "name":"string",
   "price":"int",
   "restaurant":"string"
